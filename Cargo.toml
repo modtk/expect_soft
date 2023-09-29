@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Modern Toolkit", "Samuel Karns"]
 description = ".expect but exit instead of panic"
+repository = "https://github.com/modtk/expect_soft"
 license = "CC0-1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
