@@ -1,6 +1,6 @@
 [package]
 name = "expect_soft"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Modern Toolkit", "Samuel Karns"]
 description = ".expect but exit instead of panic"
