@@ -1,3 +1,5 @@
+# Archived as of 2025, use [set_hook](https://doc.rust-lang.org/std/panic/fn.set_hook.html) instead
+
 `.expect` but exit instead of panic
 
 # Example usage
